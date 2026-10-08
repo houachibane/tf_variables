@@ -1,0 +1,13 @@
+2
+**/.terraform/**
+3
+*.tfstate
+4
+*.tfstate.*
+5
+*.tfvars
+6
+*.tfvars.json
+7
+crash.log
+8
